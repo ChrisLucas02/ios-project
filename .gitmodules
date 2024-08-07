@@ -1,0 +1,3 @@
+[submodule "dice-roller"]
+	path = dice-roller
+	url = https://github.com/ChrisLucas02/dice-roller.git
