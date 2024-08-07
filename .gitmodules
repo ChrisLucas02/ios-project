@@ -10,3 +10,6 @@
 [submodule "trivia"]
 	path = trivia
 	url = https://github.com/ChrisLucas02/trivia.git
+[submodule "black-jack"]
+	path = black-jack
+	url = https://github.com/ChrisLucas02/black-jack.git
