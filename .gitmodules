@@ -4,3 +4,9 @@
 [submodule "moleswhacker"]
 	path = moleswhacker
 	url = https://github.com/ChrisLucas02/moleswhacker.git
+[submodule "taboo"]
+	path = taboo
+	url = https://github.com/ChrisLucas02/taboo.git
+[submodule "trivia"]
+	path = trivia
+	url = https://github.com/ChrisLucas02/trivia.git
